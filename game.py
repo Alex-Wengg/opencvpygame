@@ -1,6 +1,13 @@
 
 import random
 import pygame
+'''
+so this is the pygame part mostly of my project. Its where the sprites are made and the black box. I use the main page to 
+input information for this page to output the sprites.
+'''
+
+
+
 
 class Osuball(pygame.sprite.Sprite):
     '''the method for the labels where we will place the scores the player
