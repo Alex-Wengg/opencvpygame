@@ -1,3 +1,8 @@
+'''
+the heart of the system where all the other sub pages are redirected to. 
+'''
+
+
 import pygame
 from pygame.locals import *
 import cv2
