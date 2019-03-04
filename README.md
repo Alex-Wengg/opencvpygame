@@ -13,13 +13,13 @@ a project or a new material every month. Until university comes, I will keep up 
 on Python since it has so much stuff to do. It was kinda of fun doing this project since I did learn a lot. For example, plan 
 out the subtasks and find the right modules for it.  I rate this 7 / 10. 
 
-1. I learn how to open websites on Python and download the images related links
+1. I learn how to open websites on Python and download the images related links( found on the imagehunter.py)
 
-2. How to train Haar cascades and adjust the images for better results
+2. How to train Haar cascades and adjust the images for better results(the instructions are on the cascademakerimg.txt)
 
-3. Use a camera as a background for Pygame
+3. Use a camera as a background for Pygame(the main.py)
 
-4. Make a semi-parody of Osu
+4. Make a semi-parody of Osu(game.py)
 
 Special thanks to these websites for helping my projects came to fruition and my Grade 11 coding too
 
