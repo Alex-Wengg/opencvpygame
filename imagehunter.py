@@ -1,3 +1,10 @@
+'''
+this is where I learned to find the images on google and download them not to mention process them for OpenCV
+haar cascade training. 
+'''
+
+
+
 from bs4 import BeautifulSoup
 import requests
 import re
